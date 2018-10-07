@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/hpHosts---GRM/domains.list": {
-        "1538811329": [
+        "1538911740": [
             "affiliate-payment.com",
             "bhartiwebinfotech.com",
             "colodetoxfrance.com",
@@ -48,6 +48,7 @@
             "www.weatheruk.ru",
             "www.webip.pw",
             "www.yesoptusbusinesscentre.com.au"
-        ]
+        ],
+        "to_test": []
     }
 }
