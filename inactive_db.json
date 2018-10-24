@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/hpHosts---GRM/domains.list": {
-        "1540280617": [
+        "1540367272": [
             "affiliate-payment.com",
             "bhartiwebinfotech.com",
             "colodetoxfrance.com",
@@ -41,6 +41,7 @@
             "www.magnetlead.ie",
             "www.mayki.tovarsoskidkoy.ru",
             "www.moneyboom.com.ua",
+            "www.my-xcam.com",
             "www.piran-mebel.ru",
             "www.satside.com",
             "www.seoromanian.com",
@@ -48,8 +49,7 @@
             "www.summitfinancialcorporation.com",
             "www.touchwood-furniture.com",
             "www.weatheruk.ru",
-            "www.webip.pw",
-            "www.yesoptusbusinesscentre.com.au"
+            "www.webip.pw"
         ],
         "to_test": []
     }
