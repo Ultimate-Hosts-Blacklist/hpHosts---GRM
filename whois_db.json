@@ -106,8 +106,8 @@
             "state": "future"
         },
         "anonymox.me": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "apkgamedownloads.com": {
@@ -538,7 +538,7 @@
         "meetdress.net": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "mes-montres.com": {
             "epoch": "1550793600",
