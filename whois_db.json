@@ -536,9 +536,9 @@
             "state": "future"
         },
         "meetdress.net": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "mes-montres.com": {
             "epoch": "1550793600",
