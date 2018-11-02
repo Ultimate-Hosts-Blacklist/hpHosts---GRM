@@ -488,7 +488,7 @@
         "lifearea.net": {
             "epoch": "1541116800",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "loaddress.org": {
             "epoch": "1545696000",
