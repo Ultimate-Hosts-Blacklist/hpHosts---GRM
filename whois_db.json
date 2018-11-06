@@ -313,7 +313,7 @@
         "expert5th.in": {
             "epoch": "1541462400",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "expertsoftit.com": {
             "epoch": "1569715200",
@@ -418,7 +418,7 @@
         "indigoplc.com": {
             "epoch": "1541462400",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "intentdress.com": {
             "epoch": "1557446400",
@@ -753,6 +753,11 @@
         "shopclues.com": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
+            "state": "future"
+        },
+        "soc-mir.ru": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "sociallikesplus.com": {
