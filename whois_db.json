@@ -276,9 +276,9 @@
             "state": "future"
         },
         "dvorec-okon.ru": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "eatstopeat.com": {
             "epoch": "1590796800",
@@ -311,9 +311,9 @@
             "state": "future"
         },
         "expert5th.in": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
         },
         "expertsoftit.com": {
             "epoch": "1569715200",
@@ -416,9 +416,9 @@
             "state": "future"
         },
         "indigoplc.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1857081600",
+            "expiration_date": "06-nov-2028",
+            "state": "future"
         },
         "intentdress.com": {
             "epoch": "1557446400",
@@ -798,7 +798,7 @@
         "sureshotsoftware.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "swtor2credits.com": {
             "epoch": "1547078400",
