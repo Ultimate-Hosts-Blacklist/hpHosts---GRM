@@ -698,7 +698,7 @@
         "reparmor.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "respector.by": {
             "epoch": "1551830400",
@@ -746,8 +746,8 @@
             "state": "future"
         },
         "sfilm.by": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "shopclues.com": {
