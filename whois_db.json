@@ -258,7 +258,7 @@
         "djmaxxfiesta.com": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "doucejournee.fr": {
             "epoch": "1548979200",
@@ -696,9 +696,9 @@
             "state": "future"
         },
         "reparmor.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
-            "state": "past"
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
+            "state": "future"
         },
         "respector.by": {
             "epoch": "1551830400",
