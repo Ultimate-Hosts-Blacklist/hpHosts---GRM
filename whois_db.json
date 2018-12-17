@@ -508,7 +508,7 @@
         "lottosignals.com": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mail-qe.org": {
             "epoch": "1553644800",
@@ -561,9 +561,9 @@
             "state": "future"
         },
         "musclesupplementsreviews.org": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
-            "state": "past"
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
         },
         "my-xcam.com": {
             "epoch": "1536624000",
@@ -606,9 +606,9 @@
             "state": "future"
         },
         "ourbestpromotions.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
-            "state": "past"
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
+            "state": "future"
         },
         "ox700.com": {
             "epoch": "1557878400",
