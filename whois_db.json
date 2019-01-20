@@ -661,9 +661,9 @@
             "state": "future"
         },
         "quelle-assurance-choisir.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
         },
         "rds-tools.com": {
             "epoch": "1615852800",
@@ -776,8 +776,8 @@
             "state": "future"
         },
         "solutionsadultes.com": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "ssdolg.ru": {
@@ -911,8 +911,8 @@
             "state": "future"
         },
         "vishwagujarat.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "wallhax.com": {
