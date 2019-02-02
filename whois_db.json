@@ -261,8 +261,8 @@
             "state": "future"
         },
         "doucejournee.fr": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "dressupgamesite.com": {
@@ -646,9 +646,9 @@
             "state": "future"
         },
         "proeroids.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "proforbes.com": {
             "epoch": "1556064000",
