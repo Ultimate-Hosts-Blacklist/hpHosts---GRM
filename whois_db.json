@@ -481,9 +481,9 @@
             "state": "future"
         },
         "latestdatabase.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
-            "state": "past"
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
+            "state": "future"
         },
         "lifearea.net": {
             "epoch": "1572652800",
