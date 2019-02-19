@@ -33,7 +33,7 @@
         "abestastrologer.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "accurateprospects.com": {
             "epoch": "1575331200",
@@ -46,9 +46,9 @@
             "state": "future"
         },
         "adsenseac.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "adultnet.in": {
             "epoch": "1577059200",
@@ -546,9 +546,9 @@
             "state": "future"
         },
         "msni.it": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
-            "state": "past"
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
         },
         "multcloud.com": {
             "epoch": "1689120000",
@@ -596,8 +596,8 @@
             "state": "future"
         },
         "onlineaidbd.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "otoplenie-system.ru": {
