@@ -395,6 +395,11 @@
             "expiration_date": "26-mar-2019",
             "state": "future"
         },
+        "gaming-advice.com": {
+            "epoch": "1558396800",
+            "expiration_date": "21-may-2019",
+            "state": "future"
+        },
         "gazalkent.net": {
             "epoch": "1565654400",
             "expiration_date": "13-aug-2019",
@@ -955,6 +960,11 @@
             "expiration_date": "14-feb-2020",
             "state": "future"
         },
+        "touchwood-furniture.com": {
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
         "trainerteam.biz": {
             "epoch": "1578700800",
             "expiration_date": "11-jan-2020",
@@ -1001,8 +1011,8 @@
             "state": "future"
         },
         "usabusinessconnect.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "virtualpilot3d.com": {
