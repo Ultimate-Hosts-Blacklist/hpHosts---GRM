@@ -208,7 +208,7 @@
         "charmingevents.co.uk": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "chunrikurta.com": {
             "epoch": "1568332800",
@@ -790,6 +790,11 @@
             "expiration_date": "11-dec-2019",
             "state": "future"
         },
+        "replyme.pw": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
+            "state": "future"
+        },
         "respector.by": {
             "epoch": "1614988800",
             "expiration_date": "06-mar-2021",
@@ -988,6 +993,11 @@
         "tsplus.net": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "tsplus.online": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "tuasaude.com": {
