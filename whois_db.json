@@ -503,7 +503,7 @@
         "juste-pour-un-soir.com": {
             "epoch": "1554422400",
             "expiration_date": "05-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "kaluga-poisk.ru": {
             "epoch": "1557360000",
