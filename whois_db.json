@@ -181,8 +181,8 @@
             "state": "future"
         },
         "birthdaywisheszone.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "bookngodirect.co.uk": {
@@ -853,7 +853,7 @@
         "smoochar.co.uk": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "soc-mir.ru": {
             "epoch": "1575590400",
