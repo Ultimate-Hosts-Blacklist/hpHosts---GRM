@@ -1,10 +1,7 @@
 {
-    "arguments": [],
-    "clean_original": "1",
     "currently_under_test": "0",
-    "days_until_next_test": "1",
-    "last_test": "1557481701",
+    "days_until_next_test": 1,
+    "last_test": 1557481701,
     "name": "hpHosts---GRM",
-    "raw_link": "https://hosts-file.net/grm.txt",
-    "stable": "1"
+    "raw_link": "https://hosts-file.net/grm.txt"
 }
