@@ -685,9 +685,9 @@
         "state": "future"
     },
     "ox700.com": {
-        "epoch": "1557878400",
+        "epoch": 1557878400,
         "expiration_date": "15-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "page365.net": {
         "epoch": "1574640000",
