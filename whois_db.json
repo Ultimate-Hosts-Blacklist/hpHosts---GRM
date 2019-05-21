@@ -395,9 +395,9 @@
         "state": "future"
     },
     "gaming-advice.com": {
-        "epoch": "1558396800",
+        "epoch": 1558396800,
         "expiration_date": "21-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "gazalkent.net": {
         "epoch": "1565654400",
