@@ -175,8 +175,8 @@
         "state": "future"
     },
     "bigtit.me": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "birthdaywisheszone.com": {
@@ -855,7 +855,7 @@
         "state": "future"
     },
     "smoochar.co.uk": {
-        "epoch": "1557100800",
+        "epoch": 1557100800,
         "expiration_date": "06-may-2019",
         "state": "past"
     },
