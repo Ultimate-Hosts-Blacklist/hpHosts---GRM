@@ -1,23 +1,23 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Thu Jun 13 09:52:26 2019",
-    "end_epoch": 1560419546.751994,
+    "end_datetime": "Sat Jun 15 09:50:19 2019",
+    "end_epoch": 1560592219.137317,
     "name": "hpHosts---GRM",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 465,
+        "clean.list": 467,
         "counter": {
-            "down": 87,
+            "down": 85,
             "invalid": 0,
             "tested": 552,
-            "up": 465
+            "up": 467
         },
         "domains.list": 552,
-        "volatile.list": 466,
-        "whitelisted.list": 464
+        "volatile.list": 468,
+        "whitelisted.list": 466
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "Thu Jun 13 09:48:48 2019",
-    "start_epoch": 1560419328.105429
+    "start_datetime": "Sat Jun 15 09:47:30 2019",
+    "start_epoch": 1560592050.732607
 }
