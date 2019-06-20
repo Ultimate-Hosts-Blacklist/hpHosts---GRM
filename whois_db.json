@@ -450,8 +450,8 @@
         "state": "future"
     },
     "ilizium.com": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "indigoplc.com": {
@@ -805,8 +805,8 @@
         "state": "future"
     },
     "ruplans.ru": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "salesfish.com": {
