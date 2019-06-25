@@ -195,8 +195,8 @@
         "state": "future"
     },
     "brothosonkonlonwon.ru": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "cab-airport.pl": {
@@ -430,8 +430,8 @@
         "state": "future"
     },
     "homecold.ru": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "howtoremove.guide": {
@@ -1085,9 +1085,9 @@
         "state": "future"
     },
     "worldnamedomains.net": {
-        "epoch": 1561248000,
-        "expiration_date": "23-jun-2019",
-        "state": "past"
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
     },
     "xblog.in": {
         "epoch": "1575676800",
