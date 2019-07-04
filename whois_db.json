@@ -129,6 +129,11 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "appsforsys.com": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "future"
+    },
     "auto-val.com": {
         "epoch": 1590710400,
         "expiration_date": "29-may-2020",
@@ -259,6 +264,11 @@
         "expiration_date": "14-oct-2019",
         "state": "future"
     },
+    "deex.exchange": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "dizzygirlsvids.com": {
         "epoch": 1563580800,
         "expiration_date": "20-jul-2019",
@@ -299,6 +309,11 @@
         "expiration_date": "30-may-2019",
         "state": "past"
     },
+    "eteamz.com": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "etuigalaxytab3.com": {
         "epoch": 1573603200,
         "expiration_date": "13-nov-2019",
@@ -327,6 +342,11 @@
     "ferapontoff.ru": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "findbusinessfunding.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "findmetour.com": {
@@ -920,9 +940,9 @@
         "state": "past"
     },
     "ukhomestyles.com": {
-        "epoch": 1562025600,
-        "expiration_date": "02-jul-2019",
-        "state": "past"
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
     },
     "ultimateleadgenerationpack.co": {
         "epoch": 1582416000,
