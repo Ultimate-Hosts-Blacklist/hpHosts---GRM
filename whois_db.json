@@ -2,7 +2,7 @@
     "10xcdn.com": {
         "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "5motkov.ru": {
         "epoch": 1585008000,
@@ -369,6 +369,11 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "follike.com": {
+        "epoch": 1621641600,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "followlike.net": {
         "epoch": 1616716800,
         "expiration_date": "26-mar-2021",
@@ -732,6 +737,11 @@
     "reparmor.com": {
         "epoch": 1576022400,
         "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
+    "replyme.pw": {
+        "epoch": 1592179200,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "respector.by": {
