@@ -399,6 +399,11 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "heathergate.co.uk": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "homecold.ru": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
@@ -765,8 +770,8 @@
         "state": "future"
     },
     "seoromanian.com": {
-        "epoch": 1564185600,
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "sfilm.by": {
