@@ -194,6 +194,11 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "cab-airport.pl": {
+        "epoch": 1614816000,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "charmingevents.co.uk": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
@@ -275,8 +280,8 @@
         "state": "future"
     },
     "dressupgamesite.com": {
-        "epoch": 1564358400,
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "dresswoman.ru": {
@@ -430,9 +435,9 @@
         "state": "future"
     },
     "intentdress.com": {
-        "epoch": 1557446400,
-        "expiration_date": "10-may-2019",
-        "state": "past"
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
     },
     "intimchek.biz": {
         "epoch": 1571961600,
