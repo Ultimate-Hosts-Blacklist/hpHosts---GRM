@@ -255,8 +255,8 @@
         "state": "future"
     },
     "dbluxurycars.com": {
-        "epoch": 1564358400,
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "dealtentation.fr": {
@@ -602,6 +602,11 @@
     "musclesupplementsreviews.org": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "my-xcam.com": {
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "naturalfitnesspoint.com": {
