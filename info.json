@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Sun Aug 18 10:28:28 2019",
-    "end_epoch": 1566124108.960697,
+    "end_datetime": "Tue Aug 20 10:28:33 2019",
+    "end_epoch": 1566296913.30294,
     "name": "hpHosts---GRM",
     "previous_stats": {
         "builds": 1,
@@ -18,6 +18,6 @@
         "whitelisted.list": 452
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "Sun Aug 18 10:25:37 2019",
-    "start_epoch": 1566123937.83197
+    "start_datetime": "Tue Aug 20 10:25:13 2019",
+    "start_epoch": 1566296713.919228
 }
