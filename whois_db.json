@@ -74,6 +74,11 @@
         "expiration_date": "27-oct-2027",
         "state": "future"
     },
+    "alariarxreview.org": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "ali-ina.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
@@ -92,6 +97,11 @@
     "ananapa.ru": {
         "epoch": 1595116800,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "anastasiadate.com": {
+        "epoch": 1664841600,
+        "expiration_date": "04-oct-2022",
         "state": "future"
     },
     "apexpoint.co.in": {
@@ -162,6 +172,11 @@
     "birthdaywisheszone.com": {
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
+        "state": "future"
+    },
+    "bookngodirect.co.uk": {
+        "epoch": 1605052800,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "borninataxi.net": {
@@ -374,6 +389,11 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "heathergate.co.uk": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "homecold.ru": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
@@ -459,6 +479,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "laymatures.co.uk": {
+        "epoch": 1606262400,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "loaddress.org": {
         "epoch": 1577232000,
         "expiration_date": "25-dec-2019",
@@ -524,6 +549,11 @@
         "expiration_date": "03-apr-2029",
         "state": "future"
     },
+    "moneyboom.com.ua": {
+        "epoch": 1582675200,
+        "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
     "msni.it": {
         "epoch": 1580688000,
         "expiration_date": "03-feb-2020",
@@ -564,6 +594,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "online4all.co.uk": {
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
     "otoplenie-system.ru": {
         "epoch": 1596499200,
         "expiration_date": "04-aug-2020",
@@ -599,6 +634,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "postadusa.com": {
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "postroi.ru": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -622,6 +662,11 @@
     "promotionvoucher.co.uk": {
         "epoch": 1584057600,
         "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "puornhub.com": {
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "rds-tools.com": {
@@ -679,6 +724,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "search4roots.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "secretstocheapflights.com": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
@@ -692,6 +742,11 @@
     "sfilm.by": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "shopclues.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "smoochar.co.uk": {
@@ -712,6 +767,11 @@
     "solnca-net.com": {
         "epoch": 1568419200,
         "expiration_date": "14-sep-2019",
+        "state": "future"
+    },
+    "solutionregime.com": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
         "state": "future"
     },
     "solutionsadultes.com": {
@@ -769,6 +829,11 @@
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
+    "thecotton.co.uk": {
+        "epoch": 1633392000,
+        "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
     "thecouponsindia.com": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
@@ -807,6 +872,11 @@
     "tryalphalevoiq.com": {
         "epoch": 1583798400,
         "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "tshirtkings247.com": {
+        "epoch": 1618617600,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "tsplus.net": {
