@@ -207,7 +207,7 @@
     "chunrikurta.com": {
         "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "comparitech.net": {
         "epoch": 1609632000,
