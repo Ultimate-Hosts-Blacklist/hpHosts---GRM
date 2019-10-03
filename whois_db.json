@@ -199,6 +199,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "comparitech.net": {
+        "epoch": 1609632000,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "comparitechteam.org": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
@@ -342,6 +347,11 @@
     "findthatlead.com": {
         "epoch": 1606521600,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "flowers4mothersday.net": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
         "state": "future"
     },
     "focuspullr.com": {
@@ -732,6 +742,11 @@
     "satside.com": {
         "epoch": 1585094400,
         "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "search4roots.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "secretstocheapflights.com": {
