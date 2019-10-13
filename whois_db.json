@@ -79,6 +79,11 @@
         "expiration_date": "27-oct-2027",
         "state": "future"
     },
+    "alariarxreview.org": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "ali-ina.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
@@ -355,8 +360,8 @@
         "state": "future"
     },
     "flowers4mothersday.net": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "focuspullr.com": {
