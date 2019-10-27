@@ -437,7 +437,7 @@
     "intimchek.biz": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "iso2015ebook.com": {
         "epoch": 1575763200,
