@@ -817,7 +817,7 @@
     "sukkurbeverages.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "super-seo.ru": {
         "epoch": 1581724800.0,
