@@ -914,6 +914,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "tsplus.online": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
+        "state": "future"
+    },
     "tuasaude.com": {
         "epoch": 1853366400.0,
         "expiration_date": "24-sep-2028",
