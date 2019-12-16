@@ -654,6 +654,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "playretrogames.us": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "postadusa.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
