@@ -42,7 +42,7 @@
     "acetamritsar.ac.in": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "activmaxis.com": {
         "epoch": 1622678400.0,
@@ -57,7 +57,7 @@
     "adultnet.in": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adyfast.com": {
         "epoch": 1599696000.0,
@@ -390,8 +390,8 @@
         "state": "future"
     },
     "hamdantouristik.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "heathergate.co.uk": {
@@ -845,8 +845,8 @@
         "state": "future"
     },
     "techtoolsweb.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "templatesh.com": {
