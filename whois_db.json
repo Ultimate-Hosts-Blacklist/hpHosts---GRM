@@ -17,7 +17,7 @@
     "99freeclick.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "99localsearch.com": {
         "epoch": 1589241600.0,
@@ -662,7 +662,7 @@
     "postadusa.com": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "postroi.ru": {
         "epoch": 1588809600.0,
