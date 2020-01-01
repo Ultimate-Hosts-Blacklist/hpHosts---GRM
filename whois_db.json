@@ -15,9 +15,9 @@
         "state": "future"
     },
     "99freeclick.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
-        "state": "past"
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
     },
     "99localsearch.com": {
         "epoch": 1589241600.0,
@@ -660,9 +660,9 @@
         "state": "future"
     },
     "postadusa.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
-        "state": "past"
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
     },
     "postroi.ru": {
         "epoch": 1588809600.0,
