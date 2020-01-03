@@ -87,7 +87,7 @@
     "ali-ina.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "all4chats.com": {
         "epoch": 1602460800.0,
@@ -165,8 +165,8 @@
         "state": "future"
     },
     "betternow.org": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
         "state": "future"
     },
     "bigtit.me": {
@@ -362,7 +362,7 @@
     "focuspullr.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "follike.com": {
         "epoch": 1621641600.0,
