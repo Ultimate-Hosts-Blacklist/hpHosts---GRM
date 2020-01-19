@@ -922,7 +922,7 @@
     "vishwagujarat.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "wallhax.com": {
         "epoch": 1816819200.0,
