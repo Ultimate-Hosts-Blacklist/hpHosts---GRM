@@ -570,8 +570,8 @@
         "state": "future"
     },
     "noiss.ru": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "ograsmus.com": {
@@ -695,9 +695,9 @@
         "state": "future"
     },
     "remontnotebooks.ru": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "renover-maison.com": {
         "epoch": 1598486400.0,
