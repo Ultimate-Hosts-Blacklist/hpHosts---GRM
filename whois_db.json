@@ -462,7 +462,7 @@
     "latestdatabase.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "laymatures.co.uk": {
         "epoch": 1606262400.0,
