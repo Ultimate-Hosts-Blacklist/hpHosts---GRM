@@ -70,8 +70,8 @@
         "state": "future"
     },
     "affiliatestartmechanic.com": {
-        "epoch": 1581552000.0,
-        "expiration_date": "13-feb-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
         "state": "future"
     },
     "agreatertown.com": {
@@ -120,8 +120,8 @@
         "state": "future"
     },
     "apple-care-service.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "apply-usa-visa.org": {
@@ -802,7 +802,7 @@
     "super-seo.ru": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "sureshotsoftware.com": {
         "epoch": 1604793600.0,
@@ -845,8 +845,8 @@
         "state": "future"
     },
     "thecouponsindia.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "thinkittraining.in": {
@@ -860,8 +860,8 @@
         "state": "future"
     },
     "tort78.ru": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
         "state": "future"
     },
     "touchwood-furniture.com": {
@@ -947,7 +947,7 @@
     "webtransfer-finance.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "windowprice.net": {
         "epoch": 1593475200.0,
