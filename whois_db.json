@@ -490,8 +490,8 @@
         "state": "future"
     },
     "luckies.co.uk": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "mail-qe.org": {
@@ -945,9 +945,9 @@
         "state": "future"
     },
     "webtransfer-finance.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
-        "state": "past"
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
     },
     "windowprice.net": {
         "epoch": 1593475200.0,
