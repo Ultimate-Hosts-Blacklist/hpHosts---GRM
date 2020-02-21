@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 59,
-            "invalid": 0,
-            "tested": 477,
-            "up": 418
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Wed Feb 19 13:09:52 2020",
-    "end_epoch": 1582117792.117392,
+    "end_datetime": "Fri Feb 21 12:15:02 2020",
+    "end_epoch": 1582287302.784868,
     "last_autosave_datetime": "Fri Feb 21 12:05:55 2020",
     "last_autosave_epoch": 1582286755.690357,
     "name": "hpHosts---GRM",
