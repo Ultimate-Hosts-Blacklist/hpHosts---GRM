@@ -532,7 +532,7 @@
     "mes-montres.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mfortune.co.uk": {
         "epoch": 1869868800.0,
@@ -965,9 +965,9 @@
         "state": "future"
     },
     "xblog.in": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "xseon.ru": {
         "epoch": 1595462400.0,
