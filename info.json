@@ -1,10 +1,21 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 118,
+            "invalid": 0,
+            "tested": 500,
+            "up": 382
+        },
+        "volatile.list": 416,
+        "whitelisted.list": 414
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Wed Feb 26 12:05:34 2020",
     "end_epoch": 1582718734.387758,
-    "last_autosave_datetime": "Wed Feb 26 12:00:36 2020",
-    "last_autosave_epoch": 1582718436.462678,
+    "last_autosave_datetime": "Fri Feb 28 12:02:12 2020",
+    "last_autosave_epoch": 1582891332.150915,
     "name": "hpHosts---GRM",
     "previous_stats": {
         "builds": 2,
@@ -21,6 +32,6 @@
         "whitelisted.list": 414
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "Wed Feb 26 11:50:31 2020",
-    "start_epoch": 1582717831.709784
+    "start_datetime": "Fri Feb 28 11:52:04 2020",
+    "start_epoch": 1582890724.407546
 }
