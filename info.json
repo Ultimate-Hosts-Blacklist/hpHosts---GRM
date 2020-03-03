@@ -1,19 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 57,
-            "invalid": 0,
-            "tested": 474,
-            "up": 417
-        },
-        "volatile.list": 419,
-        "whitelisted.list": 417
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Sun Mar  1 12:54:16 2020",
-    "end_epoch": 1583067256.319113,
+    "end_datetime": "Tue Mar  3 14:08:27 2020",
+    "end_epoch": 1583244507.505404,
     "last_autosave_datetime": "Tue Mar  3 13:07:03 2020",
     "last_autosave_epoch": 1583240823.862784,
     "name": "hpHosts---GRM",
