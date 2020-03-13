@@ -8,7 +8,7 @@
     "name": "hpHosts---GRM",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 427,
+        "clean_list": 426,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 534,
-        "volatile.list": 428,
-        "whitelisted.list": 426
+        "volatile.list": 425,
+        "whitelisted.list": 425
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "2020-03-13T12:58:28.680261",
-    "start_epoch": 1584104308.680261
+    "start_datetime": "2020-03-13T23:21:10.248532",
+    "start_epoch": 1584141670.248532
 }
