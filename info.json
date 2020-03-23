@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 432,
+        "whitelisted.list": 430
+    },
+    "currently_under_test": true,
     "days_until_next_test": 1,
     "end_datetime": "2020-03-04T11:26:02.552471",
     "end_epoch": 1583244507.505404,
@@ -23,6 +37,6 @@
         "whitelisted.list": 430
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "2020-03-21T14:05:44.737320",
-    "start_epoch": 1584799544.73732
+    "start_datetime": "2020-03-23T13:56:56.617564",
+    "start_epoch": 1584971816.617564
 }
