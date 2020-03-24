@@ -7,8 +7,8 @@
     "last_autosave_epoch": 1583240823.862784,
     "name": "hpHosts---GRM",
     "previous_stats": {
-        "builds": 2,
-        "clean_list": 429,
+        "builds": 1,
+        "clean_list": 428,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 534,
-        "volatile.list": 430,
-        "whitelisted.list": 428
+        "volatile.list": 427,
+        "whitelisted.list": 427
     },
     "raw_link": "https://hosts-file.net/grm.txt",
-    "start_datetime": "2020-03-23T13:56:56.617564",
-    "start_epoch": 1584971816.617564
+    "start_datetime": "2020-03-24T11:18:12.578422",
+    "start_epoch": 1585048692.578422
 }
