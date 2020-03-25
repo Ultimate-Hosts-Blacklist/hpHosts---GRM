@@ -1,19 +1,5 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 427,
-        "whitelisted.list": 427
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 1,
     "end_datetime": "2020-03-04T11:26:02.552471",
     "end_epoch": 1583244507.505404,
@@ -21,8 +7,8 @@
     "last_autosave_epoch": 1583240823.862784,
     "name": "hpHosts---GRM",
     "previous_stats": {
-        "builds": 1,
-        "clean_list": 428,
+        "builds": 2,
+        "clean_list": 431,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -33,8 +19,8 @@
             "valid": 0
         },
         "domains.list": 534,
-        "volatile.list": 427,
-        "whitelisted.list": 427
+        "volatile.list": 432,
+        "whitelisted.list": 430
     },
     "raw_link": "https://hosts-file.net/grm.txt",
     "start_datetime": "2020-03-25T13:56:06.459843",
